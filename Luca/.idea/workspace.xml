@@ -28,8 +28,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WebContent/NewFile.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="50" column="6" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="6" />
+            <state relative-caret-position="442">
+              <caret line="53" selection-start-line="53" selection-end-line="53" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
@@ -42,10 +42,15 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/WebContent/NewFile.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            <state relative-caret-position="680">
+              <caret line="216" column="31" selection-start-line="216" selection-start-column="31" selection-end-line="216" selection-end-column="31" />
               <folding>
+                <element signature="e#89#129#0" />
+                <element signature="e#136#179#0" />
+                <element signature="e#192#251#0" />
+                <element signature="e#263#269#0" />
                 <element signature="e#256#423#0" />
+                <element signature="e#430#506#0" />
                 <element signature="e#515#698#0" />
                 <element signature="e#734#817#0" />
                 <element signature="e#825#851#0" />
@@ -71,6 +76,7 @@
                 <element signature="e#2553#2649#0" />
                 <element signature="e#2657#2942#0" />
                 <element signature="e#2954#3280#0" />
+                <element signature="e#3285#3309#0" />
               </folding>
             </state>
           </provider>
@@ -79,8 +85,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WebContent/Timer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="37" column="37" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
+            <state relative-caret-position="530">
+              <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -102,8 +108,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/WebContent/buoncomp.html" />
-        <option value="$PROJECT_DIR$/WebContent/Timer.js" />
         <option value="$PROJECT_DIR$/WebContent/NewFile.html" />
+        <option value="$PROJECT_DIR$/WebContent/Timer.js" />
         <option value="$PROJECT_DIR$/WebContent/NewFile.css" />
       </list>
     </option>
@@ -114,11 +120,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="267" />
-    <option name="y" value="16" />
-    <option name="width" value="1400" />
-    <option name="height" value="944" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="779" />
+    <option name="y" value="30" />
+    <option name="width" value="1032" />
+    <option name="height" value="991" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -150,7 +156,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544130955792" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544134529828" />
     <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/GitHubDesktop/GitHubDesktop.exe" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -177,15 +183,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1544124992230</updated>
-      <workItem from="1544124994676" duration="6235000" />
+      <workItem from="1544124994676" duration="8979000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6235000" />
+    <option name="totallyTimeSpent" value="8979000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="22" width="1820" height="1000" extended-state="6" />
+    <frame x="779" y="30" width="1032" height="991" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -193,7 +199,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1903409" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3446502" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -212,7 +218,7 @@
       <window_info anchor="right" id="Maven" weight="0.32954547" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" weight="0.32954547" />
+      <window_info anchor="right" id="Database" weight="0.32943925" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -238,15 +244,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WebContent/Timer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="37" column="37" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
+        <state relative-caret-position="530">
+          <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WebContent/NewFile.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="50" column="6" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="6" />
+        <state relative-caret-position="442">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
           <folding>
             <element signature="n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
@@ -257,10 +263,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WebContent/NewFile.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        <state relative-caret-position="680">
+          <caret line="216" column="31" selection-start-line="216" selection-start-column="31" selection-end-line="216" selection-end-column="31" />
           <folding>
+            <element signature="e#89#129#0" />
+            <element signature="e#136#179#0" />
+            <element signature="e#192#251#0" />
+            <element signature="e#263#269#0" />
             <element signature="e#256#423#0" />
+            <element signature="e#430#506#0" />
             <element signature="e#515#698#0" />
             <element signature="e#734#817#0" />
             <element signature="e#825#851#0" />
@@ -286,6 +297,7 @@
             <element signature="e#2553#2649#0" />
             <element signature="e#2657#2942#0" />
             <element signature="e#2954#3280#0" />
+            <element signature="e#3285#3309#0" />
           </folding>
         </state>
       </provider>

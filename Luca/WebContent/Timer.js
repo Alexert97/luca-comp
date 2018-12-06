@@ -33,9 +33,10 @@ let timer = setInterval(function(a) {
 			document.getElementById("timer").innerHTML =
 				"<div class='video'>" +
 				"<iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/V10EBvSti2A\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>" +
-                "</div>" +
-				"<div class='buoncomp'>" +
-				"<p>Buon Compleanno Luca!</p>" +
+                "</div>"
+			document.getElementById("buoncomp").innerHTML =
+				"<div class='container'>" +
+				"<p>Buon <br> Compleanno <br> Luca!</p>" +
 				"</div>"
 			clearInterval(timer);
 		}
