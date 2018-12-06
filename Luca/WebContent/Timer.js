@@ -1,7 +1,7 @@
 
 
 const year = (new Date().getFullYear());
-const fourthOfJuly = new Date(year, 10, 7).getTime();
+const fourthOfJuly = new Date(year, 11, 7).getTime();
 
 
 let timer = setInterval(function(a) {
