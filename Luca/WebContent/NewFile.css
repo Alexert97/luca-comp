@@ -227,9 +227,9 @@ footer a:hover {
 .class h1{
     font-family: helvetica, arial, sans-serif;
     width: 100%;
-    font-size: 12vw;
+    font-size: 10vw;
     color: white;
-    top: auto;
+    top: 18%;
     text-align: center;
     position: absolute;
     left: 0;
