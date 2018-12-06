@@ -1,7 +1,7 @@
 
 
 const year = (new Date().getFullYear());
-const fourthOfJuly = new Date(year, 11, 7).getTime();
+const fourthOfJuly = new Date(year, 10, 7).getTime();
 
 
 let timer = setInterval(function(a) {
@@ -33,7 +33,10 @@ let timer = setInterval(function(a) {
 			document.getElementById("timer").innerHTML =
 				"<div class='video'>" +
 				"<iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/V10EBvSti2A\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>" +
-                "</div>"
+                "</div>" +
+				"<div class='buoncomp'>" +
+				"<p>Buon Compleanno Luca!</p>" +
+				"</div>"
 			clearInterval(timer);
 		}
 
