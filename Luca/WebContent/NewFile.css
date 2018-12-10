@@ -17,16 +17,16 @@ body {
     overflow: auto;
 
 }
-.frase1 {
-    position: relative;
-    margin: auto;
-    overflow: auto;
+#frase1 {
+    overflow: hidden;
+
 }
 .frase {
     position: relative;
     margin: auto;
     height:130px;
-    overflow:visible;
+    overflow: visible;
+    display: block;
 }
 
 .palloncini {

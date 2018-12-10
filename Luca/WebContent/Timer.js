@@ -44,6 +44,9 @@ let timer = setInterval(function (a) {
             "<div class='container'>" +
             "<p>Buon <br> Compleanno <br> Luca!</p>" +
             "</div>"
+        document.getElementById("frase").style.display= "none";
+        document.getElementById("frase1").style.display = "none";
+
         clearInterval(timer);
     }
 
