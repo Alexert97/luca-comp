@@ -8,7 +8,7 @@ html {
 
 body {
     display: grid;
-    background: #183059;
+    background: rgb(107, 0, 8);
 }
 
 .container {
@@ -66,25 +66,33 @@ h1 {
 }
 
 .days {
-    background: #EF2F3C;
+    background: #0e1648;
+    color: #dcca15;
 }
 
 .hours {
-    background: #F6F4F3;
+    background: #dcca15;
     color: #183059;
 }
 
 .minutes {
-    background: #276FBF;
+    background: #0e1648;
+    color: #dcca15;
 }
 
 .seconds {
-    background: #F0A202;
+    background: #dcca15;
+    color: #183059;
 }
 
 .numbers {
     font-family: "Montserrat", sans-serif;
-    color: #183059;
+    color: #dcca15;
+    font-size: 5em;
+}
+.numbers0 {
+    font-family: "Montserrat", sans-serif;
+    color: #101955;
     font-size: 5em;
 }
 

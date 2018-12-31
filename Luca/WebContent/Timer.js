@@ -1,5 +1,5 @@
 const year = (new Date().getFullYear());
-const fourthOfJuly = new Date(year, 11, 19).getTime();
+const fourthOfJuly = new Date(2019, 0, 1).getTime();
 
 
 let timer = setInterval(function (a) {
@@ -21,11 +21,11 @@ let timer = setInterval(function (a) {
             "<div class=\"days\"> \
             <div class=\"numbers\">" + days + "</div>days</div> \
 		<div class=\"hours\"> \
-		<div class=\"numbers\">" + hours + "</div>hours</div> \
+		<div class=\"numbers0\">" + hours + "</div>hours</div> \
 		<div class=\"minutes\"> \
 		<div class=\"numbers\">" + minutes + "</div>minutes</div> \
 		<div class=\"seconds\"> \
-		<div class=\"numbers\">" + seconds + "</div>seconds</div> \
+		<div class=\"numbers0\">" + seconds + "</div>seconds</div> \
 		</div>"
         document.getElementById("frase").innerHTML =
             "<div class='frase'>" +
@@ -33,16 +33,16 @@ let timer = setInterval(function (a) {
             "</div>"
         document.getElementById("frase1").innerHTML =
             "<div class='frase1'>" +
-            "<p>Sarai Penalmente Perseguibile!</p>" +
+            "<p>Inizierà il nuovo Anno!</p>" +
             "</div>";
     } else {
-        document.getElementById("timer").innerHTML =
-            "<div class='video'>" +
-            "<iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/V10EBvSti2A\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\"  allowfullscreen></iframe>" +
-            "</div>"
+        // document.getElementById("timer").innerHTML =
+        //     "<div class='video'>" +
+        //     "<iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/V10EBvSti2A\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\"  allowfullscreen></iframe>" +
+        //     "</div>"
         document.getElementById("buoncomp").innerHTML =
             "<div class='container'>" +
-            "<p>Buon <br> Compleanno <br> Luca!</p>" +
+            "<p>Buon <br> Anno <br> 2019 !</p>" +
             "</div>"
         document.getElementById("frase").style.display= "none";
         document.getElementById("frase1").style.display = "none";
