@@ -2,14 +2,14 @@
 @import url("https://fonts.googleapis.com/css?family=Charmonman");
 
 html {
-    display: grid;
+    display: block;
     min-height: 100%;
 }
 
 body {
     display: grid;
     background: rgb(107, 0, 8);
-}
+    }
 
 .container {
     position: relative;
@@ -54,7 +54,7 @@ h1 {
     font-family: "Lato", sans-serif;
     font-size: .7em;
     letter-spacing: 5px;
-    margin-top: 25%;
+    /*margin-top: 25%;*/
     z-index: 15;
 }
 
@@ -62,7 +62,7 @@ h1 {
     display: inline-block;
     padding: 20px;
     width: 100px;
-    border-radius: 5px;
+    border-radius: 500px;
 }
 
 .days {
@@ -242,7 +242,7 @@ h1 {
     text-align: center;
     left: 0;
     right: 0;
-    transform: translate3d(0, -20%, 0);
+    /*transform: translate3d(0, -20%, 0);*/
     background: url('http://i.giphy.com/VQ2XbYu2ITUbK.gif');
     background-size: cover;
     background-repeat: norepeat;

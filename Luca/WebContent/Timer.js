@@ -40,10 +40,12 @@ let timer = setInterval(function (a) {
         //     "<div class='video'>" +
         //     "<iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/V10EBvSti2A\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\"  allowfullscreen></iframe>" +
         //     "</div>"
-        document.getElementById("buoncomp").innerHTML =
+       document.getElementById("buoncomp").innerHTML =
             "<div class='container'>" +
-            "<p>Buon <br> Anno <br> 2019 !</p>" +
+            "<p>Buon <br> 2019!!</p>" +
             "</div>"
+        document.body.style.background="url(https://media.giphy.com/media/l1J3DaHzWEp2bTpYs/giphy.gif)";
+        document.body.style.backgroundPosition="center";
         document.getElementById("frase").style.display= "none";
         document.getElementById("frase1").style.display = "none";
 
